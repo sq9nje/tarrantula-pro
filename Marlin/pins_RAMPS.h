@@ -494,7 +494,7 @@
       #define DOGLCD_CS         25
 
       // GLCD features
-      //#define LCD_CONTRAST   190
+      #define LCD_CONTRAST   255
       // Uncomment screen orientation
       //#define LCD_SCREEN_ROT_90
       //#define LCD_SCREEN_ROT_180
@@ -521,7 +521,7 @@
       #define DOGLCD_CS         66
 
       // GLCD features
-      //#define LCD_CONTRAST   190
+      #define LCD_CONTRAST   255
       // Uncomment screen orientation
       //#define LCD_SCREEN_ROT_90
       //#define LCD_SCREEN_ROT_180
